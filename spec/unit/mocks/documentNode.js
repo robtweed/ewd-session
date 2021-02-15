@@ -10,7 +10,8 @@ module.exports = {
       increment: jasmine.createSpy(),
       forEachChild: jasmine.createSpy(),
       lock: jasmine.createSpy(),
-      unlock: jasmine.createSpy()
+      unlock: jasmine.createSpy(),
+      value: jasmine.createSpy()
     };
 
     return documentNode;
