@@ -1,6 +1,6 @@
 {
   "name": "ewd-session",
-  "version": "2.18.1",
+  "version": "2.19.0",
   "author": "Rob Tweed, M/Gateway Developments Ltd",
   "description": "Session management using ewd-document-store DocumentNodes",
   "license": "Apache-2.0",
