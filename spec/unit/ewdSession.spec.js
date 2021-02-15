@@ -272,6 +272,7 @@ describe('unit/ewdSession:', function () {
     });
   });
 
+  /*
   describe('#garbageCollector', function () {
     var node;
     var worker;
@@ -336,6 +337,7 @@ describe('unit/ewdSession:', function () {
       expect(sessionSpy).toHaveBeenCalledTimes(2);
     });
   });
+  */
 
   describe('#authenticate', function () {
     beforeEach(function () {
